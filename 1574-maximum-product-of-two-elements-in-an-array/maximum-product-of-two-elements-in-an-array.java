@@ -1,4 +1,5 @@
 class Solution {
+    //synced in github
     public int maxProduct(int[] nums) {
         int max = -1;
         int smax = -1;
